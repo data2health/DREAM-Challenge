@@ -2,7 +2,7 @@
 This is the project management page for the Patient mortality prediction DREAM Challenge being carried out by Sage Bionetworks under the leadership of (Justin Guinney)[https://github.com/jguinney] and the University of Washington under the leadership of [Sean Mooney](https://github.com/sdmooney) and Graduate Student [Timothy Bergquist](https://github.com/trberg)
 
 ## Problem statement
-Evaluation of predictive models in the clinical space is an every growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
+Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
 
 ## Project description
 ### Mortality Prediction
