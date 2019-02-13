@@ -51,9 +51,9 @@ See [Team README](/team.md)
 
 ## Milestones 
 
-Due Date | Milestone | Status | 
-----------|--------------|------------|
-Feb 4 | Complete the aggregation and quality assessment of the UW cohort that will be used in the study. | [Done](#1)
+  Due Date | Milestone    | Status     | 
+|----------|--------------|------------|
+Feb 4 | Complete the aggregation and quality assessment of the UW cohort that will be used in the study. | [Done](https://github.com/data2health/DREAM-Challenge/milestone/1)
 Feb 27 | Conduct an internal evaluation by applying previously developed models to the UW cohort. | [Ongoing](https://github.com/data2health/DREAM-Challenge/milestone/2)
 March 6 | Survey the CTSAs to find which sites have mortality and 30-day re-admission prediction models that would be willing to participate. | [Not Started](https://github.com/data2health/DREAM-Challenge/milestone/3)
 March 20 | Build the Synapse pilot challenge site with instructions for participating in the challenge. | [Ongoing](https://github.com/data2health/DREAM-Challenge/milestone/4)
