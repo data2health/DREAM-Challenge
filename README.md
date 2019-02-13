@@ -1,5 +1,5 @@
 # Patient mortality prediction DREAM Challenge
-This is the project management page for the Patient mortality prediction DREAM Challenge being carried out by Sage Bionetworks under the leadership of (Justin Guinney)[https://github.com/jguinney] and the University of Washington under the leadership of [Sean Mooney](https://github.com/sdmooney) and Graduate Student [Timothy Bergquist](https://github.com/trberg)
+This is the project management page for the Patient mortality prediction DREAM Challenge being carried out by Sage Bionetworks under the leadership of [Justin Guinney](https://github.com/jguinney) and the University of Washington under the leadership of [Sean Mooney](https://github.com/sdmooney) and Graduate Student [Timothy Bergquist](https://github.com/trberg)
 
 ## Problem statement
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
@@ -52,7 +52,7 @@ See [Team README](/team.md)
 ## Milestones 
 
   Due Date | Milestone    | Status     | 
-|----------|--------------|------------|
+|:----------|:--------------:|------------:|
 Feb 4 | Complete the aggregation and quality assessment of the UW cohort that will be used in the study. | [Done](https://github.com/data2health/DREAM-Challenge/milestone/1)
 Feb 27 | Conduct an internal evaluation by applying previously developed models to the UW cohort. | [Ongoing](https://github.com/data2health/DREAM-Challenge/milestone/2)
 March 6 | Survey the CTSAs to find which sites have mortality and 30-day re-admission prediction models that would be willing to participate. | [Not Started](https://github.com/data2health/DREAM-Challenge/milestone/3)
@@ -85,10 +85,9 @@ We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CT
 Please tag any engagment related issues with "engagement".
 
 ## Working documents
-Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)
+[Phase II Proposal](https://docs.google.com/document/d/1b3hv9Owku002MrCAXH1jVjBkXVWAFamvSYb-bBILvQQ/edit?usp=sharing)
 
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
+[The project Google drive folder](https://drive.google.com/drive/folders/1XJJDcVJBp-wZ6IBNZBcs-0HlSzvT2Z0g?usp=sharing) is accessible to onboarded participants. 
 
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
