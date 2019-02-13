@@ -13,7 +13,7 @@ DREAM challenges are an instrumental tool for harnessing the wisdom of the broad
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Tim Bergquist (@trberg) | UW | Sean Mooney (@sdmooney)
+Tim Bergquist (@trberg) | UW | Justin Guinney (justin.guinney@sagebase.org)
 
 ## Leads 
 
