@@ -4,6 +4,9 @@ The Patient Mortality DREAM Challenge is a community challenge being carried out
 ## Problem statement
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+
 ## Project description
 ### Mortality Prediction
 We are tackling the stated problem by focusing on a specific prediction problem: **patient mortality**. Due to it's well studied nature and relatively well-established predictiveness, patient mortality serves as an easy benchmarking problem for assessing predictive models. These models are also widely adopted and implimented at healthcare institutions, a feature we hope will stimulate participation from a wide range of institutions.
