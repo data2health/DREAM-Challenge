@@ -1,5 +1,5 @@
-# Patient Mortality DREAM Challenge
-The Patient Mortality DREAM Challenge is a community challenge being carried out by [Justin Guinney](https://github.com/jguinney) and [Thomas Schaffter](https://github.com/tschaffter) at Sage Bionetworks, and [Sean Mooney](https://github.com/sdmooney) and [Timothy Bergquist](https://github.com/trberg) at the University of Washington.
+# EHR DREAM Challenge
+The EHR DREAM Challenge is a community challenge being carried out by [Justin Guinney](https://github.com/jguinney) and [Thomas Schaffter](https://github.com/tschaffter) at Sage Bionetworks, and [Sean Mooney](https://github.com/sdmooney) and [Timothy Bergquist](https://github.com/trberg) at the University of Washington.
 
 ## Problem statement
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
