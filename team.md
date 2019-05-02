@@ -3,7 +3,6 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
 Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
 
@@ -11,6 +10,7 @@ Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
 Name | GitHub Handle | Site
 -- | -- | --
 Timothy Bergquist | [trberg](https://github.com/trberg) | UW
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 James Eddy | [jaeddy](https://github.com/jaeddy) | Sage
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
