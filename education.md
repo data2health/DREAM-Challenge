@@ -1,2 +1,2 @@
 # Education
-Education plans TBD.
+The EHR DREAM challenge is an educational opportunity for researchers who historically have had limited access to electronic health record data to test and adapt their predictive methods. The materials we are providing with help educate researchers on standard healthcare vocabularies, standardized common data models, and modern virtual machine software.

@@ -1,5 +1,5 @@
-# Patient Mortality DREAM Challenge
-The Patient Mortality DREAM Challenge is a community challenge being carried out by [Justin Guinney](https://github.com/jguinney) and [Thomas Schaffter](https://github.com/tschaffter) at Sage Bionetworks, and [Sean Mooney](https://github.com/sdmooney) and [Timothy Bergquist](https://github.com/trberg) at the University of Washington.
+# EHR DREAM Challenge
+The EHR DREAM Challenge is a community challenge being carried out by [Justin Guinney](https://github.com/jguinney) and [Thomas Schaffter](https://github.com/tschaffter) at Sage Bionetworks, and [Sean Mooney](https://github.com/sdmooney) and [Timothy Bergquist](https://github.com/trberg) at the University of Washington.
 
 ## Problem statement
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Typically, predictive models are developed and evaluated internally at healthcare organizations. External validation and comparison of different methods on the same set of benchmarks is rarely carried out. 
@@ -12,14 +12,17 @@ We are tackling the stated problem by focusing on a specific prediction problem:
  [DREAM challenges](http://dreamchallenges.org/) are an instrumental tool for harnessing the wisdom of the broader scientific community to develop computational solutions to biomedical problems. While previous DREAM challenges have worked with complex biological data as well as sensitive medical data, running DREAM Challenges with Electronic Health Records present unique complications, patient privacy being at the forefront of those concerns. Previous challenges have developed a technique known as the [Model to Data](https://www.nature.com/articles/nbt.4128) (MTD) approach to maintain the privacy of the data. We will be using this MTD approach, facilitated by docker, on an [OMOP](https://github.com/OHDSI/CommonDataModel) dataset provided by the University of Washington to make development of models standardized.
 
 ### Patient Mortality DREAM Challenge
-We will ask participants of this DREAM Challenge to predict the future mortality status of currently living patients within our OMOP repository. After participants predict, we will prospectively evaluate the model performances. We will carry out this DREAM challenge in two phases (Fig 1).
+We will ask participants of this DREAM Challenge to predict the future mortality status of currently living patients within our OMOP repository. After participants predict, we will evaluate the model performances against a gold standard benchmark dataset. We will carry out this DREAM challenge in three phases (Fig 1).
 
-***The first phase*** will be a preliminary testing and validation phase. The UW OMOP data will be divided into a training and a validation set. Participants will submit their predictive models to our system where those models will train on the training set and predict on the validation set. The prediction performance will be evaluated against the ground truth mortality status of those patients in the validation set. The main objectives of the first phase are to allow the participants to become familiar with the submission system, to allow the organizers to work out any issues in the pipeline, and to give participants a preliminary ranking on the performance of their model. 
+***The Open Phase*** will be a preliminary testing and validation phase. In this phase, the Synpuf synthetic OMOP data will be used to test submitted models. Participants will submit their predictive models to our system where those models will train and predict on the split Synpuf dataset. The main objectives of the first phase are to allow the participants to become familiar with the submission system, to allow the organizers to work out any issues in the pipeline, and to give participants a preliminary ranking on the performance of their model. 
 
-***The second phase*** will be the prospective prediction phase. Participants will submit their final model which will have the entire UW OMOP repository available to them for training, making predictions on all living patients who have had at least one visit in the previous month. They will predict whether these patients will be deceased in the next 6 months by assigning a probability score to each of the patients. Participants will be expected to setup up their own training dataset but the patient numbers for which a prediction is expected will be provided to the docker models. After the submission deadline, we will wait for 6 months as patient mortality status accumulate. This accumulated data will be our gold standard benchmark against which we will assess the predictive performance of the models.
+***The Leaderboard Phase*** will be the prospective prediction phase carried out on UW OMOP data. Participants will submit their models which will have a portion of the UW OMOP repository available to them for training, making predictions on all living patients who have had at least one visit in the previous month. They will predict whether these patients will be deceased in the next 6 months by assigning a probability score to each of the patients. Participants will be expected to setup up their own training dataset but the patient numbers for which a prediction is expected will be provided to the docker models.
 
-![DREAM Phases](src/DREAM_phases_2.png)
-<span style="font-size: 0.7em;">Figure 1. Phase 1 will feature a training and test set by which preliminary model performance will be evaluated. During this phase, prediction performance will be returned to participants in an iterative manner to enable the participants to modify their models accordingly. Phase 2 will feature the finalized model submissions being evaluated against a prospectively accumulated gold standard benchmarking dataset. Participants will be expected to develop their own training set in Phase 2. Predictions will be made on patients who have had at least one visit in the previous month.</span>
+***The Validation Phase*** will be the final evaluation phase where challenge admins are able to finalize the scores of the models.
+
+
+![DREAM Phases](src/timeline_2.png)
+<span style="font-size: 0.7em;">Figure 1. The Open Phase will feature a synethic training and test set to test the pipeline and participant models. The Leaderboard Phase will feature model submissions being evaluated against the UW OMOP repository. The gold standard benchmark set will be withheld from the docker models and used to evaluate model performance. Model performance metrics will be returned to the participants via Synapse.</span>
 
 
 
@@ -42,8 +45,9 @@ Project Team Members
 
 See [Team README](/team.md)
 
-## Repositories
+## Repositories and Websites
 - https://github.com/data2health/DREAM-Challenge
+- [Synapse Pre-registration Site](https://www.synapse.org/#!Synapse:syn18405991/wiki/589657)
 
 ## Deliverables
 1. Code package for spinning up and running a Model to Data DREAM challenge on an OMOP repository.
