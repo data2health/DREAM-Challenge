@@ -5,10 +5,10 @@ The EHR DREAM Challenge is a series of community challenges to pilot and develop
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Healthcare institutions are attempting to move away from a rules-based approach to clinical care, toward a more data-driven model of care. To achieve this, machine learning algorithms are being developed to aid physicians in clinical decision making. However, a key limitation in the adoption and widespread deployment of these algorithms into clinical practice is the lack of rigorous assessments and clear evaluation standards. A framework for the systematic benchmarking and evaluation of biomedical algorithms - assessed in a prospective manner that mimics a clinical environment - is needed to ensure patient safety and clinical efficacy.
 
 ## Alignment to program objectives
-The primary objectives of the EHR DREAM Challenge are well-aligned with the broader CTSA goals of developing a learning healthcare system. We aim to achieve these goals through EHR Challenges by :
-** Lowering barriers to piloting of innovative machine learning and data science methods in healthcare
-** Establishing clinically relevant prediction benchmarks and evaluation metrics
-** Minimizing the distance between the model developers and the clinic to reduce the time of model implementation
+The primary objectives of the EHR DREAM Challenge are to :
+* Lower barriers to piloting of innovative machine learning and data science methods in healthcare
+* Establish clinically relevant prediction benchmarks and evaluation metrics
+* Minimize the distance between the model developers and the clinic to reduce the time of model implementation
 
 ## Project description
 ### Mortality Prediction
