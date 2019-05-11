@@ -1,5 +1,5 @@
 # EHR DREAM Challenge
-The EHR DREAM Challenge is a series of community challenges to pilot and develop a predictive analytic ecosystem within the healthcare system.  being carried out by [Justin Guinney](https://github.com/jguinney) and [Thomas Schaffter](https://github.com/tschaffter) at Sage Bionetworks, and [Sean Mooney](https://github.com/sdmooney) and [Timothy Bergquist](https://github.com/trberg) at the University of Washington.
+The EHR DREAM Challenge is a series of community challenges to pilot and develop a predictive analytic ecosystem within the healthcare system.  
 
 ## Problem statement
 Evaluation of predictive models in the clinical space is an ever growing need for the Learning Health System. Healthcare institutions are attempting to move away from a rules-based approach to clinical care, toward a more data-driven model of care. To achieve this, machine learning algorithms are being developed to aid physicians in clinical decision making. However, a key limitation in the adoption and widespread deployment of these algorithms into clinical practice is the lack of rigorous assessments and clear evaluation standards. A framework for the systematic benchmarking and evaluation of biomedical algorithms - assessed in a prospective manner that mimics a clinical environment - is needed to ensure patient safety and clinical efficacy.
@@ -32,17 +32,14 @@ We will ask participants of this DREAM Challenge to predict the future mortality
 
 
 
-## Contact person
-
-Point person (github handle) | Site | Program Director
-----------|--------------|---------------
-Tim Bergquist (@trberg) | UW | Sean Mooney (@sdmooney)
-
 ## Project Scientific Leads 
 
 Lead(s) (email) | Site
 ----------|--------------|
-Justin Guinney (@jguinney) | Sage Bionetworks
+[Tim Bergquist](@trberg) | UW 
+[Sean Mooney](@sdmooney) | UW
+[Justin Guinney](@jguinney) | Sage Bionetworks
+[Thomas Schaffter](@tschaffter) | Sage Bionetworks
 
 
 ## Team members 
