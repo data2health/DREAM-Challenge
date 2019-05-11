@@ -53,8 +53,10 @@ See [Team README](/team.md)
 - [Synapse Pre-registration Site](https://www.synapse.org/#!Synapse:syn18405991/wiki/589657)
 
 ## Deliverables
-1. Code package for spinning up and running a Model to Data DREAM challenge on an OMOP repository.
-2. Best practices and Standard Operating Procedure documentation for prospective model evaluation and benchmarking on EHR data.
+1. Code and Dockerized package for deploying an evaluation harness (e.g. Model to Data) applied on an OMOP repository.
+2. NCATS deployed evaluation harnesss (see Deliverable #1) using SynPUFF data. 
+3. Best practices and Standard Operating Procedure documentation for prospective model evaluation and benchmarking on EHR data.
+4. Library of Dockerized algorithms for prediction of patient mortality with performance metrics.
 
 ## Milestones 
 
