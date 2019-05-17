@@ -19,6 +19,12 @@ The Validation Phase will be the final evaluation phase where challenge admins a
 3. Best practices and Standard Operating Procedure documentation for prospective model evaluation and benchmarking on EHR data.
 4. Library of Dockerized algorithms for prediction of patient mortality - acquired through EHR DREAM Challenge - with performance metrics.
 
+# Deliverables
+1. Code and Dockerized package for deploying an evaluation harness (e.g. Model to Data) for predictive algorithms applied against an OMOP CDM.
+2. NCATS deployed and hosted evaluation harnesss using the OMOP CDM (see Deliverable #1) populated with SynPUFF data. 
+3. Best practices and Standard Operating Procedure documentation for prospective model evaluation and benchmarking on EHR data.
+4. Library of Dockerized algorithms for prediction of patient mortality - acquired through EHR DREAM Challenge - with performance metrics.
+
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
 |:----------|:--------------:|------------:|
