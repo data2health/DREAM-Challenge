@@ -25,18 +25,25 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tell Bennett | [tdbennett](https://github.com/tdbennett) | UCDenver
 Tom Campion | [github.com](http://github.com) | Cornell
+Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
+Jack DiGiovanna | [jackDigi](https://github.com/jackDigi) | SevenBridges
 Tom Dillon | [tmdillon](https://github.com/tmdillon) | WashU
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
+John Franz | [github.com](http://github.com) | Icahn
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 William Hersh | [williamhersh](https://github.com/williamhersh) | OHSU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
+Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
