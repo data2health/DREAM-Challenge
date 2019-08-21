@@ -25,6 +25,7 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tell Bennett | [tdbennett](https://github.com/tdbennett) | UCDenver
 Tom Campion | [github.com](http://github.com) | Cornell
