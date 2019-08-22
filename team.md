@@ -45,6 +45,7 @@ Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 William Hersh | [williamhersh](https://github.com/williamhersh) | OHSU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
