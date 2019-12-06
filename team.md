@@ -51,7 +51,9 @@ Vojtech Huser | [vojtechhuser](https://github.com/vojtechhuser) | NLM
 Eric Johnson Chavarria | [github.com](http://github.com) | NCI
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Leslie Lenert | [LAL200](https://github.com/LAL200) | MUSC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Kate Marusina | [github.com](http://github.com) | UCDavisHealth
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
