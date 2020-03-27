@@ -39,3 +39,20 @@ Jan 2020 | Make scripts and documentation available for the CTSAs. | [Ongoing](h
 
 # Potential Pitfalls and Alternative Strategies
 In this Challenge, we are asking participants to submit mortality prediction algorithms that are trained using data to which they have direct accesss, or to do more limited (blinded) training on data provided within the UW EHR system. In the former case, the models may not generalize well to the UW validation cohort, and in the latter case, training on hidden data - using a Docker container - may not provide sufficient information to robustly train a model. To overcome both of these limitations, we will explore the use of simulated data derived from the underlying distributions of the EHR cohort. This will facilitate model training as data scientists are accustomed, i.e. working directly with the data, while simultaneously not distributing sensitive patient information.   
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* Code and Dockerized package for deploying an evaluation harness (e.g. Model to Data) for predictive algorithms applied against an OMOP CDM.
+  * https://github.com/Sage-Bionetworks/EHR-challenge
+
+* NCATS deployed and hosted evaluation harness using the OMOP CDM (see Deliverable #1) populated with SynPUFF data.
+  * https://github.com/Sage-Bionetworks/EHR-challenge
+
+* Best practices and Standard Operating Procedure documentation for prospective model evaluation and benchmarking on EHR data.
+  * [Documentation](https://www.synapse.org/#!Synapse:syn18405991/wiki/595485)
+  * [Docker model](https://github.com/yy6linda/mortality_prediction_docker_model)
+
+* Library of Dockerized algorithms for prediction of patient mortality - acquired through EHR DREAM Challenge - with performance metrics.
+  * A library of all the submitted models will be generated at the end of the Competitive Phase of the challenge (end of February 2020, see [Challenge Timeline](https://www.synapse.org/#!Synapse:syn18405991/wiki/589657)).
+
